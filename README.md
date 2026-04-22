@@ -1,167 +1,183 @@
-# Hi, I'm Muzammil Modan 👋
+<div align="center">
 
-### Senior Android & Flutter Developer • Tech Lead • Mobile Architect
+# ⚡ Muzammil Modan
 
-I build high-performance mobile products that scale across **Android, iOS, TV platforms, and Smart Devices**.
+### Senior Android & Flutter Engineer • Tech Lead • Mobile Architect
 
-With **10+ years of experience** and **40+ shipped production apps**, I help startups and businesses turn ideas into reliable revenue-generating mobile products.
+Building high-performance mobile products across **Android, iOS, OTT, TV Platforms & Smart Devices**
 
-📍 Ahmedabad, Gujarat, India  
-📧 muzammil.modan786@gmail.com  
-🌐 Portfolio: https://muzammilmodan.super.site/  
-💼 Open for Remote Roles • Freelance • Contract • Product Consulting
+<p>
+<a href="mailto:muzammil.modan786@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://muzammilmodan.super.site/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge"/>
+</a>
+<a href="https://github.com/muzammilmodan">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
 
----
+<img src="https://komarev.com/ghpvc/?username=muzammilmodan&style=for-the-badge" />
 
-## 🚀 What I Deliver
-
-✅ Android Apps (Kotlin / Java)  
-✅ Flutter Apps (Android + iOS + Web + TV)  
-✅ OTT / Video Streaming Apps  
-✅ Smart TV Apps (Android TV / Fire TV / Samsung / LG)  
-✅ Firebase / Analytics / Crash Monitoring  
-✅ Scalable App Architecture  
-✅ Team Leadership / Code Reviews  
-✅ Store Launch & CI/CD Delivery  
+</div>
 
 ---
 
-## 🏆 Career Highlights
+## 🚀 Executive Summary
 
-- 🎯 **10+ years** mobile development experience  
-- 📱 **40+ apps launched** across multiple stores  
-- 🌍 Published on:
-  - Google Play Store
-  - Apple App Store
-  - Amazon Appstore
-  - Samsung Galaxy Store
-  - LG Content Store
+I help startups and companies build scalable mobile ecosystems that generate revenue, improve retention, and deliver premium user experiences.
 
-- 📺 Built **AltaTV** OTT platform with:
-  - 10,000+ paid subscribers  
-  - 2,000+ daily active users  
+With **10+ years of experience** and **40+ production apps launched**, I specialize in:
 
-- 📉 Reduced production crashes by **35%** using Sentry + Crashlytics
-
-- 🧠 Led engineering teams, mentored developers, improved delivery speed
+✔ Android Native Engineering  
+✔ Flutter Cross-Platform Products  
+✔ OTT / Streaming Platforms  
+✔ Smart TV Ecosystems  
+✔ App Performance Optimization  
+✔ Architecture & Team Leadership  
+✔ End-to-End Product Delivery  
 
 ---
 
-## 🔥 Featured Products
+## 🏆 Signature Impact
 
-### 📺 AltaTV — OTT Streaming Platform
-Netflix-style streaming platform for Italy market.
+<div align="center">
 
-**Stack:** Flutter, Firebase, ExoPlayer, GA4, Sentry
+| Achievement | Result |
+|------------|--------|
+| 📺 AltaTV OTT Platform | 10,000+ Paid Subscribers |
+| 📈 Active Users | 2,000+ Daily Users |
+| 📉 Crash Reduction | -35% Production Issues |
+| 🚀 Total Apps Delivered | 40+ |
+| 🌍 Global Distribution | Play Store + App Store + TV Stores |
+| 👨‍💻 Experience | 10+ Years |
 
-✔ Subscriptions  
-✔ Playback Optimization  
-✔ Smart TV Support  
-✔ Casting Integration
-
----
-
-### 📡 AltaPlay — Casting SDK + Receiver Platform
-
-Cross-platform casting ecosystem supporting:
-
-- DLNA  
-- Chromecast  
-- AirPlay  
-- Samsung TV  
-- LG TV  
-- Android TV  
-- Fire TV
-
-Built custom JavaScript SDK + Flutter bridge.
+</div>
 
 ---
 
-### 🚍 Mission GPS
+## 🔥 Premium Expertise
 
-Real-time vehicle & passenger tracking app.
-
-**Stack:** Flutter, Maps, WebSocket
-
----
-
-### 🔐 Noosom Diary
-
-Privacy-first encrypted journaling app.
-
-**Stack:** Flutter, AES Encryption, Offline-first
-
----
-
-## 🛠 Tech Stack
-
-### Mobile
+### 📱 Mobile Engineering
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
 
-### Backend / APIs
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![REST API](https://img.shields.io/badge/REST_API-black?style=for-the-badge)
-![WebSocket](https://img.shields.io/badge/WebSocket-blue?style=for-the-badge)
+### ⚙ Architecture
+![MVVM](https://img.shields.io/badge/MVVM-black?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-black?style=for-the-badge)
+![BLoC](https://img.shields.io/badge/BLoC-blue?style=for-the-badge)
+![GetX](https://img.shields.io/badge/GetX-purple?style=for-the-badge)
 
-### Streaming / TV
+### 📺 OTT / Streaming / TV
 ![ExoPlayer](https://img.shields.io/badge/ExoPlayer-black?style=for-the-badge)
 ![Chromecast](https://img.shields.io/badge/Chromecast-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![Android TV](https://img.shields.io/badge/Android_TV-green?style=for-the-badge)
 ![Fire TV](https://img.shields.io/badge/Fire_TV-orange?style=for-the-badge)
+![DLNA](https://img.shields.io/badge/DLNA-grey?style=for-the-badge)
 
-### Tools
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket)
-![Jira](https://img.shields.io/badge/Jira-blue?style=for-the-badge&logo=jira)
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muzammilmodan&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muzammilmodan&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=muzammilmodan&theme=tokyonight&hide_border=true)
+### ☁ Cloud / Analytics
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![GA4](https://img.shields.io/badge/GA4-blue?style=for-the-badge)
+![Crashlytics](https://img.shields.io/badge/Crashlytics-red?style=for-the-badge)
+![Sentry](https://img.shields.io/badge/Sentry-black?style=for-the-badge)
 
 ---
 
-## 💼 Why Companies Hire Me
+## 🌟 Flagship Projects
 
-✔ Strong ownership mindset  
-✔ Fast execution with quality  
-✔ Business-focused engineering  
-✔ Architecture-first thinking  
-✔ Proven app launch experience  
-✔ Team mentoring & leadership  
-✔ Production debugging expert  
+### 📺 AltaTV
+Netflix-style OTT streaming platform for Italy market.
 
----
+**Built with:** Flutter • Firebase • ExoPlayer • Analytics
 
-## 🎯 Currently Focused On
-
-- AI + Mobile Apps  
-- OTT & Streaming Systems  
-- Flutter Scalable Architecture  
-- Performance Optimization  
-- Global Freelance Projects  
+✔ Subscriptions  
+✔ Premium streaming UX  
+✔ Multi-device support  
+✔ Smart TV integration  
 
 ---
 
-## 🤝 Let's Work Together
+### 📡 AltaPlay
 
-If you need someone who can **build, fix, scale, launch, and lead mobile products**, let’s connect.
+Cross-platform casting ecosystem supporting:
 
-📧 muzammil.modan786@gmail.com  
-🌐 https://muzammilmodan.super.site/  
-💼 Available Worldwide
+Android TV • Fire TV • Samsung TV • LG TV • Chromecast • DLNA • AirPlay
+
+Custom JavaScript SDK + Flutter receiver architecture.
 
 ---
 
-## ⚡ Philosophy
+### 🚍 Mission GPS
 
-> Great apps are not built with code alone.  
-> They are built with product thinking, speed, and ownership.
+Live tracking ecosystem with real-time vehicle movement & passenger visibility.
+
+---
+
+### 🔐 Noosom Diary
+
+Privacy-first encrypted journaling app with secure offline-first architecture.
+
+---
+
+## 📈 Engineering Metrics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=muzammilmodan&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzammilmodan&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://streak-stats.demolab.com/?user=muzammilmodan&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🧠 Leadership Value
+
+✔ Turn ideas into shipped products  
+✔ Mentor engineers for speed + quality  
+✔ Reduce bugs through systems thinking  
+✔ Communicate with founders clearly  
+✔ Own delivery from concept to store launch  
+
+---
+
+## 🎯 Open To
+
+- Senior Mobile Engineer Roles  
+- Tech Lead Opportunities  
+- Remote Global Teams  
+- High-value Freelance Products  
+- OTT / Streaming / TV Projects  
+- Startup Consulting  
+
+---
+
+## 🤝 Connect
+
+<div align="center">
+
+<a href="mailto:muzammil.modan786@gmail.com">
+<img src="https://img.shields.io/badge/Email-Let's_Talk-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://muzammilmodan.super.site/">
+<img src="https://img.shields.io/badge/Portfolio-View_Work-black?style=for-the-badge"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ Brand Statement
+
+**I don't just build apps.  
+I build scalable mobile businesses.**
+
+</div>
