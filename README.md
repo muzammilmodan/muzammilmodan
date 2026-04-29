@@ -4,13 +4,13 @@
 
 ### Senior Android & Flutter Engineer • Tech Lead • Mobile Architect
 
-Building high-performance mobile products across **Android, iOS, OTT, TV Platforms & Smart Devices**
+Building high-performance mobile products across **Android, iOS, OTT, TV Platforms(Android/Goolge/Amazon/Samsung/LG/etc) & Smart Devices**
 
 <p>
 <a href="mailto:muzammil.modan786@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://muzammilmodan.super.site/">
+<a href="https://muzammilmodan.github.io/portfolio">
 <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge"/>
 </a>
 <a href="https://github.com/muzammilmodan">
@@ -50,7 +50,7 @@ With **10+ years of experience** and **40+ production apps launched**, I special
 | 📈 Active Users | 2,000+ Daily Users |
 | 📉 Crash Reduction | -35% Production Issues |
 | 🚀 Total Apps Delivered | 40+ |
-| 🌍 Global Distribution | Play Store + App Store + TV Stores |
+| 🌍 Global Distribution | Play Store + App Store + TV Stores(Amazon,Samsung,LG) |
 | 👨‍💻 Experience | 10+ Years |
 
 </div>
@@ -64,6 +64,7 @@ With **10+ years of experience** and **40+ production apps launched**, I special
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-8fce00?style=for-the-badge)
 
 ### ⚙ Architecture
 ![MVVM](https://img.shields.io/badge/MVVM-black?style=for-the-badge)
@@ -77,6 +78,8 @@ With **10+ years of experience** and **40+ production apps launched**, I special
 ![Android TV](https://img.shields.io/badge/Android_TV-green?style=for-the-badge)
 ![Fire TV](https://img.shields.io/badge/Fire_TV-orange?style=for-the-badge)
 ![DLNA](https://img.shields.io/badge/DLNA-grey?style=for-the-badge)
+![AirPlay](https://img.shields.io/badge/Java-b4a7d6?style=for-the-badge)
+![LG webOS](https://img.shields.io/badge/Java-f9cb9c?style=for-the-badge)
 
 ### ☁ Cloud / Analytics
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
